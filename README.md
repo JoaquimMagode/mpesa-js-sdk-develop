@@ -362,24 +362,6 @@ client.query(reversionData).then(function(r) {
 - [M-Pesa SDK for PHP](https://github.com/paymentsds/mpesa-php-sdk)
 - [M-Pesa SDK for Ruby](https://github.com/paymentsds/mpesa-ruby-sdk)
 
-
-<br><br>
-
-## Authors <a name="authors"></a>
-
-- [Anísio Mandlate](https://github.com/AnisioMandlate)
-- [Edson Michaque](https://github.com/edsonmichaque)
-- [Elton Laice](https://github.com/eltonlaice)
-- [Nélio Macombo](https://github.com/neliomacombo)
-
-
-<br><br>
-
-## Contributing
-
-Thank you for considering contributing to this package. If you wish to do it, email us at [developers@paymentsds.org](mailto:developers@paymentsds.org) and we will get back to you as soon as possible.
-
-
 <br><br>
 
 ## Security Vulnerabilities
@@ -390,7 +372,7 @@ If you discover a security vulnerability, please email us at [developers@payment
 
 ## License
 
-Copyright 2022 &copy; The PaymentsDS Team
+Copyright 2026 &copy; The PaymentsDS Team
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
