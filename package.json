@@ -28,9 +28,9 @@
   "bugs": {
     "url": "https://github.com/paymentsds/mpesa-js-sdk/issues"
   },
-  
   "homepage": "https://github.com/paymentsds/mpesa-js-sdk#readme",
   "dependencies": {
+    "@paymentsds/mpesa": "^0.1.0-alpha-9",
     "axios": "^1.6.0"
   },
   "devDependencies": {
@@ -53,4 +53,3 @@
     "sinon": "^17.0.1"
   }
 }
-
